@@ -1,3 +1,5 @@
+{
 "scripts": {
 	"start": "node <path-to-js-file.js>"
+}
 }
