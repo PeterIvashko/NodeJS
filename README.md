@@ -1,11 +1,11 @@
 # NodeJS
-- []  Create project in vs code with npm
+- [ ]  Create project in vs code with npm
 
 ```bash
 npm init
 ```
 
-- []  Set start script in package.json
+- [ ]  Set start script in package.json
 
 ```bash
 "scripts": {
@@ -13,11 +13,11 @@ npm init
 }
 ```
 
-- []  Try to run app
+- [ ]  Try to run app
     - []  via npm start command
-    - []  via debug mode
-- []  Try samples in [slack](https://dpp-kmc7380.slack.com/archives/C031R3J7U8L/p1644947327022859)
+    - [ ]  via debug mode
+- [ ]  Try samples in [slack](https://dpp-kmc7380.slack.com/archives/C031R3J7U8L/p1644947327022859)
 - [ ]  Implement sorting of array
     - [ ]  Ascending
     - [ ]  Descending
-- []  Set github repo for this project and push changes
+- [ ]  Set github repo for this project and push changes
