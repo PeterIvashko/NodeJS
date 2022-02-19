@@ -14,7 +14,7 @@ npm init
 ```
 
 - [ ]  Try to run app
-    - []  via npm start command
+    - [ ]  via npm start command
     - [ ]  via debug mode
 - [ ]  Try samples in [slack](https://dpp-kmc7380.slack.com/archives/C031R3J7U8L/p1644947327022859)
 - [ ]  Implement sorting of array
