@@ -1,19 +1,21 @@
-const bool = true; // false
+const bool = true; 
+
+const obj = {};
 
 if(obj.home === 'Kyiv') {
-    // console.log('is the capital of Ukraine');
+    
 } else {
-    // console.log('Some another city');
+
 }
 
+const arr = [];
 
 for(let index = 0; index < arr.length - 1; index += 1) {
-    // console.log(arr[index]);
+    
 }
 
 for(let index = arr.length; index >= 0; index = index - 1) {
-    // This is text describes something
-    // console.log(arr[index]);
+    
 }
 
 let some = 5;
