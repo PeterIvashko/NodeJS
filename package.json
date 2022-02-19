@@ -1,5 +1,19 @@
 {
-"scripts": {
-	"start": "node <path-to-js-file.js>"
-}
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "- [x]  Create project in vs code with npm",
+  "main": "index.js",
+  "scripts": {
+     "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterIvashko/NodeJS.git"
+  },
+  "author": "Peter Ivashko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterIvashko/NodeJS/issues"
+  },
+  "homepage": "https://github.com/PeterIvashko/NodeJS#readme"
 }
