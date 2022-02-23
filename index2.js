@@ -24,11 +24,3 @@ function findMinimum(input){
 }
 console.log(findMinimum(numbers));
 
-function sortNumbers(input){
-   let min2 = findMinimum(numbers)
-   for (let i = 1; i < input.length; i = i + 1 ){
-       if (input[i] > min2){
-    min2 = input[i];
-   }
-  } return min2;
-}
